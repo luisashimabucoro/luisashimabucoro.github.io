@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Luísa Shimabucoro"
-  pronouns         : "she/her" 
+  pronouns         : # "she/her" 
   bio              : "Research Scholar @ Cohere For AI"
   location         : "Brazil"
   employer         : "Cohere"
