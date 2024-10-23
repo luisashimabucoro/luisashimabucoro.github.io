@@ -11,7 +11,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Updates
 ------
-- **2024.2** Starting Research Internship @ Cohere advised by [Dr. Sebastian Ruder](https://ruder.io) and Dr. [Ahmet Üstun](https://ahmetustun.github.io/) working on multilingual models
+- **2024.2** Starting Research Internship @ Cohere advised by [Dr. Sebastian Ruder](https://www.ruder.io/about/) and [Dr. Ahmet Üstun](https://ahmetustun.github.io/) working on multilingual models
 - **2024.2** Thrilled to share ["LLM See, LLM Do: Guiding Data Generation to Target Non-Differentiable Objectives"](https://arxiv.org/abs/2407.01490) was accepted to **EMNLP 2024 (Oral)**!
 - **2024.1** Starting as a Research Scholar @ Cohere for AI mentored by [Dr. Sara Hooker](https://www.sarahooker.me/), [Dr. Sebastian Ruder](https://ruder.io), [Dr. Marzieh Fadaee](https://marziehf.github.io/) and [Dr. Julia Kreutzer](https://juliakreutzer.github.io/) working on synthetic data 
 - **2023.2** ["Evaluating the Evaluators: Are Current Few-Shot Learning Benchmarks Fit for Purpose?"](https://arxiv.org/abs/2307.02732) was accepted to **ICML 2023 - DMLR Workshop**
