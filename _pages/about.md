@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I'm Luísa, I am a CS undergrad at the University of São Paulo and incoming CS PhD student at the Stanford. Previously I was a visiting researcher at the University of Edinburgh and research scholar at Cohere for AI. My research interests are, broadly speaking, data-centric modelling, generalization on low-resource settings and robust evaluation design. 
+Hey! I'm Luísa, I am a CS undergrad at the University of São Paulo and incoming CS PhD student at Stanford. Previously I was a visiting researcher at the University of Edinburgh and research scholar at Cohere for AI. My research interests are, broadly speaking, data-centric modelling, generalization on low-resource settings and robust evaluation design. 
 
 Updates
 ------
